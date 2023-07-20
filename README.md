@@ -20,3 +20,16 @@ Esta version final del proyecto contiene Splash, Login y Dashboard, a diferencia
 
 ## Archivos 
 
+### ui.theme 
+
+▶️ Este archivo contiene todos los temas de la aplicacion, incluye colores y tipos de letra.
+
+### res
+
+▶️ Estas carpetas contienen las imagenes, clasificadas por (flores, contenido, frutas y verduras, huevos, informacion, inicio, lacteos, principal, ver mas).
+
+### Components
+
+▶️ Esta carpeta contiene los compnentes de dashboard y su navegacion con login y splash, los archivos que contienen son los siguientes:
+✔️ Items_bar: Este archivo contiene la seccion 
+
