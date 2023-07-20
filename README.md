@@ -31,5 +31,18 @@ Esta version final del proyecto contiene Splash, Login y Dashboard, a diferencia
 ### Components
 
 ▶️ Esta carpeta contiene los compnentes de dashboard y su navegacion con login y splash, los archivos que contienen son los siguientes:
-✔️ Items_bar: Este archivo contiene la seccion 
+
+✔️ Navigation_Bottom: Esta seccion es la navegacion inferior, donde estan las paginas (inicio, contenidos e informacion) junto a su boton de recordatorio.
+
+✔️ Navigation_Drawer: Es el menu lateral que contienen las paginas (principal, flores, lacteos, huevos, frutas y verduras, ver mas), ademas viene asociado con la imagen superior de tienda CBA.
+
+✔️ NotificacionProgramada: Aplica toda la configuracion para la notificacion que contiene el recordatorio.
+
+✔️ NotificationsChannel: Dentro de este archivo se puede encontrar las configuraciones para el resto de notificaciones (sencilla, extensa, con imagen).
+
+✔️ TiendaApp: Es la configuracion de nuestra aplicacion, contiene todas las navegaciones composables y su clase de rutas.
+
+✔️ TopBar: Contiene los iconos, titulo y acciones que se pueden realizar en el navegador superior de la aplicacion.
+
+
 
