@@ -34,15 +34,43 @@ Esta version final del proyecto contiene Splash, Login y Dashboard, a diferencia
 
 ✔️ [Navigation_Bottom](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/Navigation_Bottom.kt): Esta seccion es la navegacion inferior, donde estan las paginas (inicio, contenidos e informacion) junto a su boton de recordatorio.
 
-✔️ Navigation_Drawer: Es el menu lateral que contienen las paginas (principal, flores, lacteos, huevos, frutas y verduras, ver mas), ademas viene asociado con la imagen superior de tienda CBA.
+✔️ [Navigation_Drawer](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/Navigation_Drawer.kt): Es el menu lateral que contienen las paginas (principal, flores, lacteos, huevos, frutas y verduras, ver mas), ademas viene asociado con la imagen superior de tienda CBA.
 
-✔️ NotificacionProgramada: Aplica toda la configuracion para la notificacion que contiene el recordatorio.
+✔️ [NotificacionProgramada](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/NotificacionProgramada.kt): Aplica toda la configuracion para la notificacion que contiene el recordatorio.
 
-✔️ NotificationsChannel: Dentro de este archivo se puede encontrar las configuraciones para el resto de notificaciones (sencilla, extensa, con imagen).
+✔️ [NotificationsChannel](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/NotificationsChannel.kt): Dentro de este archivo se puede encontrar la configuracion para la notificacion programada y sus permisos.
 
-✔️ TiendaApp: Es la configuracion de nuestra aplicacion, contiene todas las navegaciones composables y su clase de rutas.
+✔️ [TiendaApp](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/TiendaApp.kt): Es la configuracion de nuestra aplicacion, contiene todas las navegaciones composables y su clase de rutas.
 
-✔️ TopBar: Contiene los iconos, titulo y acciones que se pueden realizar en el navegador superior de la aplicacion.
+✔️ [TopBar](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/TopBar.kt): Contiene los iconos, titulo y acciones que se pueden realizar en el navegador superior de la aplicacion.
+
+✔️ [notifications](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/notifications.kt): En el archivo se encuentra cada una de las notificaciones con sus configuraciones(Sencilla, Extensa, Con imagen).
+
+### [pages](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages)
+
+Esta carpeta contiene todas las paginas de la aplicacion, son las siguientes:
+
+✔️ [login](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/login)
+
+✔️ [splash](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/splash)
+
+✔️ [Page_Contenidos](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Contenidos.kt)
+
+✔️ [Page_Flores](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Flores.kt)
+
+✔️ [Page_Frutas_Verduras](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Frutas_Verduras.kt)
+
+✔️ [Page_Huevos][Page_Contenidos](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Huevos.kt)
+
+✔️ [Page_Informacion](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Informacion.kt)
+
+✔️ [Page_Inicio](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Inicio.kt)
+
+✔️ [Page_Lacteos](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Lacteos.kt)
+
+✔️ [Page_Principal](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Principal.kt)
+
+✔️ [Page_Ver_Mas](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Ver_Mas.kt)
 
 
 
