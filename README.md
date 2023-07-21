@@ -20,7 +20,7 @@ Esta version final del proyecto contiene Splash, Login y Dashboard, a diferencia
 
 ## Archivos 
 
-### [ui.theme](
+### [ui.theme](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/ui/theme)
 
 ▶️ Este archivo contiene todos los temas de la aplicacion, incluye colores y tipos de letra.
 
