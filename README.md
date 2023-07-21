@@ -60,7 +60,7 @@ Esta carpeta contiene todas las paginas de la aplicacion, son las siguientes:
 
 ✔️ [Page_Frutas_Verduras](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Frutas_Verduras.kt)
 
-✔️ [Page_Huevos][Page_Contenidos](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Huevos.kt)
+✔️ [Page_Huevos](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Huevos.kt)
 
 ✔️ [Page_Informacion](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Informacion.kt)
 
