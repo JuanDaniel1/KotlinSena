@@ -32,7 +32,7 @@ Esta version final del proyecto contiene Splash, Login y Dashboard, a diferencia
 
 ▶️ Esta carpeta contiene los compnentes de dashboard y su navegacion con login y splash, los archivos que contienen son los siguientes:
 
-✔️ [Navigation_Bottom]((ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/Navigation_Bottom): Esta seccion es la navegacion inferior, donde estan las paginas (inicio, contenidos e informacion) junto a su boton de recordatorio.
+✔️ [Navigation_Bottom](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/components/Navigation_Bottom): Esta seccion es la navegacion inferior, donde estan las paginas (inicio, contenidos e informacion) junto a su boton de recordatorio.
 
 ✔️ Navigation_Drawer: Es el menu lateral que contienen las paginas (principal, flores, lacteos, huevos, frutas y verduras, ver mas), ademas viene asociado con la imagen superior de tienda CBA.
 
