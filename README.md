@@ -72,5 +72,9 @@ Esta carpeta contiene todas las paginas de la aplicacion, son las siguientes:
 
 ✔️ [Page_Ver_Mas](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/pages/Page_Ver_Mas.kt)
 
+### [MainActivity](ProyectoDashboard4/app/src/main/java/com/example/proyectodashboard4/MainActivity.kt)
+
+Este archivo contiene toda la configuracion inicial de la aplicacion, donde se aplica el tema y la primera funcion que la aplicacion ejecuta.
+
 
 
