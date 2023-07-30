@@ -76,5 +76,10 @@ Esta carpeta contiene todas las paginas de la aplicacion, son las siguientes:
 
 Este archivo contiene toda la configuracion inicial de la aplicacion, donde se aplica el tema y la primera funcion que la aplicacion ejecuta.
 
+## [Calculadora_2](Calculadora_2)
+
+Este proyecto es el desarrollo de la calculadora kotlin XML que se realizo, es el unico proyecto del repositorio que contiene codigo XML ya que el resto hace uso de Jetpack Compose
+
+
 
 
