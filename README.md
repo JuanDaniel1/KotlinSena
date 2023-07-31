@@ -96,6 +96,10 @@ Es la version actualizada del proyecto anterior, contiene UI con colores relacio
 
 Este proyecto contiene la aplicacion de contenedores desplegables donde se muestra la animacion de despliegue y la nueva informacion.
 
+## [JetpackCompose2](JetpackCompose2)
+
+Se muestra la aplicacion de chat simulado donde cada mensaje tiene su detalle corto y largo, haciendo despliegue pero sin animacion, tambien representa la simulacion de mensajes de chat, se uso jetpack compose.
+
 
 
 
