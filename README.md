@@ -78,7 +78,21 @@ Este archivo contiene toda la configuracion inicial de la aplicacion, donde se a
 
 ## [Calculadora_2](Calculadora_2)
 
-Este proyecto es el desarrollo de la calculadora kotlin XML que se realizo, es el unico proyecto del repositorio que contiene codigo XML ya que el resto hace uso de Jetpack Compose
+Este proyecto es el desarrollo de la calculadora kotlin XML que se realizo, es el unico proyecto del repositorio que contiene codigo XML ya que el resto hace uso de Jetpack Compose.
+
+## [CalculadoraJet](CalculadoraJet)
+
+Esta calculadora a diferencia del anterior, contiene codigo Jetpack Compose, ademas se hizo cambios en la UI, junto a otra libreria Rhino para reconocimiento de operaciones matematicas.
+
+## [MyEcommerce](MyEcommerce)
+
+Este proyecto es el desarrollo de una tienda ecommerce de yoga con el mismo UI del tutorial en android developers, tambien se hace uso de codigo jetpack compose.
+
+## [MyEcommerce2](MyEcommerce2)
+
+Es la version actualizada del proyecto anterior, contiene UI con colores relacionados al Sena, junto a un boton flotante en el navegador inferior y mas grillas para la distribucion de productos Sena.
+
+## [kotlin](
 
 
 
