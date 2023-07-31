@@ -92,7 +92,11 @@ Este proyecto es el desarrollo de una tienda ecommerce de yoga con el mismo UI d
 
 Es la version actualizada del proyecto anterior, contiene UI con colores relacionados al Sena, junto a un boton flotante en el navegador inferior y mas grillas para la distribucion de productos Sena.
 
-## [kotlin](
+## [kotlin](kotlin)
+
+Este proyecto contiene la aplicacion de contenedores desplegables donde se muestra la animacion de despliegue y la nueva informacion.
+
+
 
 
 
