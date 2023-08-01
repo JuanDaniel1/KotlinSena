@@ -76,41 +76,66 @@ Esta carpeta contiene todas las paginas de la aplicacion, son las siguientes:
 
 Este archivo contiene toda la configuracion inicial de la aplicacion, donde se aplica el tema y la primera funcion que la aplicacion ejecuta.
 
+### Imagenes
+
+
 ## [Calculadora_2](Calculadora_2)
 
 Este proyecto es el desarrollo de la calculadora kotlin XML que se realizo, es el unico proyecto del repositorio que contiene codigo XML ya que el resto hace uso de Jetpack Compose.
+
+![Screenshot_20230731-200509](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/c411a7ee-d1dc-4218-8ae4-107404ca1bc1)
+
 
 ## [CalculadoraJet](CalculadoraJet)
 
 Esta calculadora a diferencia del anterior, contiene codigo Jetpack Compose, ademas se hizo cambios en la UI, junto a otra libreria Rhino para reconocimiento de operaciones matematicas.
 
+![Screenshot_20230731-200504](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/8b879a98-4dce-42a1-b664-0893fe421e4e)
+
 ## [MyEcommerce](MyEcommerce)
 
 Este proyecto es el desarrollo de una tienda ecommerce de yoga con el mismo UI del tutorial en android developers, tambien se hace uso de codigo jetpack compose.
+
+![Screenshot_20230801-005931~2](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/407b90a6-5450-449c-be14-4db1ceb093d9)
+
 
 ## [MyEcommerce2](MyEcommerce2)
 
 Es la version actualizada del proyecto anterior, contiene UI con colores relacionados al Sena, junto a un boton flotante en el navegador inferior y mas grillas para la distribucion de productos Sena.
 
+![Screenshot_20230801-010029](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/90cd2afb-3236-4c26-8582-901bf8ec677b)
+
 ## [kotlin](kotlin)
 
 Este proyecto contiene la aplicacion de contenedores desplegables donde se muestra la animacion de despliegue y la nueva informacion.
+
+![Screenshot_20230801-004108](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/548c9c02-d51a-440c-9b68-aa2f429d01a2)
+
 
 ## [JetpackCompose2](JetpackCompose2)
 
 Se muestra la aplicacion de chat simulado donde cada mensaje tiene su detalle corto y largo, haciendo despliegue pero sin animacion, tambien representa la simulacion de mensajes de chat, se uso jetpack compose.
 
+![Screenshot_20230801-010400](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/d0b4c5cf-f0a8-4ccb-9725-6bd15ca8d144)
+
 ## [Tasks](Tasks)
 
 El proyecto contiene una aplicacion de salud donde se muestra un listado de tareas y puedo eliminar, seleccionar tareas, por otro lado las que seleccione no seran eliminadas.
+
+![Screenshot_20230801-004851](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/02f8eb1d-71f4-4654-bf6e-4fd862c00740)
 
 ## [jetloginsena](jetloginsena)
 
 Es un login alusivo al sena con sus colores y estilos, junto a un splash animado, contiene notificaciones al iniciar sesion y registrarse.
 
+![Screenshot_20230731-200550](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/7f2a86db-4b1c-4e3d-aae5-999226de219a)
+
 ## [cupcake](cupcake)
 
 Esta aplicacion consiste en el pedido de cupcakes, donde se selecciona cantidad, sabores, fecha de entrega, factura y por ultimo hay opcion para compartir el pedido por cualquier aplicacion.
+
+![Screenshot_20230731-200625](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/fb28869e-2de1-4332-a9ca-56df066ea55d)
+
 
 
 
