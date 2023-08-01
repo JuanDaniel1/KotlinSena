@@ -100,6 +100,14 @@ Este proyecto contiene la aplicacion de contenedores desplegables donde se muest
 
 Se muestra la aplicacion de chat simulado donde cada mensaje tiene su detalle corto y largo, haciendo despliegue pero sin animacion, tambien representa la simulacion de mensajes de chat, se uso jetpack compose.
 
+## [Tasks](Tasks)
+
+El proyecto contiene una aplicacion de salud donde se muestra un listado de tareas y puedo eliminar, seleccionar tareas, por otro lado las que seleccione no seran eliminadas.
+
+## [jetloginsena](jetloginsena)
+
+Es un login alusivo al sena con sus colores y estilos, junto a un splash animado, contiene notificaciones al iniciar sesion y registrarse.
+
 
 
 
