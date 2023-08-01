@@ -78,6 +78,14 @@ Este archivo contiene toda la configuracion inicial de la aplicacion, donde se a
 
 ### Imagenes
 
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/964fb2df-f098-4bdb-9f0b-90901d09d952)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/becf9ec2-66a7-40f0-9a74-7d06cf74ec3e)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/e6efa8e3-7a7e-4577-bc60-2f253c56d3a0)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/285ed51d-f99e-4136-b092-6f9e69253567)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/038be1ee-9041-4cd2-b53e-e44b62a30fda)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/b9df8f5a-3494-4eb8-aae2-33b29398acaa)
+![image](https://github.com/JuanDaniel1/KotlinSena/assets/110575826/2f33d26d-6327-46b7-9a8d-365b37e39a4d)
+
 
 ## [Calculadora_2](Calculadora_2)
 
